@@ -1,3 +1,6 @@
+# Grand Circus labs
+Referenced document: https://docs.google.com/document/d/1n9TV-rL2x5Csm6dCionKTACyRZChX-b02wvBoUSI28c/preview#
+
 # AngularSocialPostsLab
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
